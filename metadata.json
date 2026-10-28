@@ -1,0 +1,6 @@
+{
+  "name": "AfriQuantX",
+  "description": "Pan-African Multi-Currency Securities Clearing, Quantitative Investment Banking, and Pre-IPO Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
